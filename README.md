@@ -58,3 +58,7 @@ http://localhost/WEB_UAS/
 ## Author
 
 Ahmad Syaifulloh
+
+## Disclaimer
+
+Proyek ini dikembangkan dengan bantuan ChatGPT (OpenAI) sebagai alat bantu dalam memberikan saran, penjelasan, dan pembuatan query database. Seluruh implementasi, pengujian, dan hasil akhir telah ditinjau kembali oleh penulis.
